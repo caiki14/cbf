@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 10px;
+    text-align: left;
+}
+ 
+.sessao1 {
+    margin: 50px;
+    padding: 10px;
+    border: 2px solid black; 
+    width: 900px;
+
+}
+
+.sessao2 {
+    margin: 50px;
+    padding: 10px;
+    border: 2px solid black; 
+    width: 900px;
+
+}
+
+.sessao3 {
+    margin: 50px;
+    padding: 10px;
+    border: 2px solid black; 
+    width: 1150px;
+
+}
+
+.sessao4 {
+    margin: 50px;
+    padding: 10px;
+    border: 2px solid black; 
+    width: 1200px;
+
+}
